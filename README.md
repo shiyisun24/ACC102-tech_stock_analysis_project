@@ -1,5 +1,5 @@
-#ACC102 Mini Assignment – Track 2
-#US Tech Stock Data Analysis Project
+# ACC102 Mini Assignment – Track 2
+# US Tech Stock Data Analysis Project
 
 ---
 ## 📌 Project Overview 
